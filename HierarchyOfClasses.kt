@@ -1,4 +1,3 @@
-
 sealed interface Auto {
     val mark: String?
     val typecar: String?
