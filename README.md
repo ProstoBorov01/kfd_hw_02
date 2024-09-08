@@ -11,4 +11,4 @@
 
 В данной иерархии присутсвет singleton класс, который выступает в роли счётчика. 
 
-Схема - https://drive.google.com/file/d/1PHfLwBQW1j3Rjli8gz2efq_IFKU_vYPc/view?usp=sharing
+Иерархия - https://drive.google.com/file/d/1PHfLwBQW1j3Rjli8gz2efq_IFKU_vYPc/view?usp=sharing
