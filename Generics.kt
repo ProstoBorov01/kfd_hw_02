@@ -60,7 +60,7 @@ fun main() {
 
     println(getBiggest(20,5))
 
-    // generic в классах
+    // примеры generic в классах
 
     val email = Email("@yandex.ru")
     val sendEmail = Message<Email>()
